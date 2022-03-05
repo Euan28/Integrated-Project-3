@@ -8,6 +8,9 @@ in one of the highest graded projects.
 Technologies Listed Below
 
 Front-End - Vue.js, AmCharts, WebPack, Babel.Js, SCSS, HTML 5
+
 Back-End - Spring Rest API, OpenAQ, Java, Java Persistence API, OpenJDK 11, Apache Maven Build System
+
 Deployment - AWS
+
 Design and Development Tools - Trello, OneDrive, Microsoft Word, Microsoft PowerPoint 
